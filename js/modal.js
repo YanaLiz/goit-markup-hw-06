@@ -14,3 +14,5 @@ function toggleModal() {
     refs.body.classList.toggle("no-scroll")
 }
 })();
+
+
